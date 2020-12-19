@@ -13,7 +13,6 @@ DescriptionDescriptionDescription
 ![image](https://user-images.githubusercontent.com/74193229/102681065-b8eef280-4201-11eb-9ce8-e2c66d3b4e21.png)
 
 
-## VS.
 
 ## Requirement
 - Requirement
